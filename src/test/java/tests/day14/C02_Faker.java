@@ -36,7 +36,7 @@ public class C02_Faker extends TestBase {
                 sendKeys("1").sendKeys(Keys.TAB).
                 sendKeys("Ağu").sendKeys(Keys.TAB).
                 sendKeys("1988").sendKeys(Keys.TAB).sendKeys(Keys.TAB).
-                sendKeys(Keys.TAB).sendKeys(Keys.TAB).sendKeys(Keys.ARROW_RIGHT).
+                sendKeys(Keys.TAB).sendKeys(Keys.TAB).sendKeys(Keys.RIGHT).
                 //sendKeys(Keys.TAB).sendKeys(Keys.TAB).sendKeys(Keys.TAB).sendKeys(Keys.TAB).sendKeys(Keys.ENTER).
                 perform();
         //Tarih icin ay secin
